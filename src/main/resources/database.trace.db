@@ -1,0 +1,3 @@
+2024-02-21 20:22:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PROFESSOR" not found (this database is empty); SQL statement:
+select professor0_.id as id1_2_, professor0_.department as departme2_2_, professor0_.name as name3_2_ from professor professor0_ [42104-214]
